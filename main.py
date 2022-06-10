@@ -1,3 +1,5 @@
+#  https://github.com/reza-sdo/rock-paper-scissor.git
+
 import random
 randomNum = random.randint(0, 2)
 
